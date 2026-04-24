@@ -1,4 +1,4 @@
-# Custom Add-ons
+# Home Assistant Custom Apps
 
 This repository contains add-ons to Home Assistant.
 
